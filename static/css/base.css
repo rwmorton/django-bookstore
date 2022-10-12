@@ -10,3 +10,8 @@ h1 {
 .offset_nav {
     padding-top: 1rem;
 }
+
+.bookcover {
+    height: 300px;
+    width: auto;
+}
